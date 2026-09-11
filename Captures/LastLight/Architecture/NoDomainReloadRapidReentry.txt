@@ -1,0 +1,8 @@
+Faulted
+System.AggregateException: One or more errors occurred. (样例启动超时。) ---> System.TimeoutException: 样例启动超时。
+  at LastLight.ArchitectureSmoke.RunAsync (LastLight.ArchitectureBootstrap boot) [0x00085] in D:\BaiduSyncdisk\unity\Chongfandiq\Assets\LastLight\Scripts\ArchitectureSample\ArchitectureSmoke.cs:27 
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.TimeoutException: 样例启动超时。
+  at LastLight.ArchitectureSmoke.RunAsync (LastLight.ArchitectureBootstrap boot) [0x00085] in D:\BaiduSyncdisk\unity\Chongfandiq\Assets\LastLight\Scripts\ArchitectureSample\ArchitectureSmoke.cs:27 <---
+
+Rapid stop/play in the same tool batch raced Addressables editor delayCall reinitialization.

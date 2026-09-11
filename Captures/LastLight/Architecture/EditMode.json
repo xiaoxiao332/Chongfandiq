@@ -1,0 +1,124 @@
+{
+  "result": {
+    "success": true,
+    "message": "Test job status retrieved.",
+    "error": null,
+    "data": {
+      "job_id": "18dd98b00e784b82b19061eb2d0e85eb",
+      "status": "succeeded",
+      "mode": "EditMode",
+      "started_unix_ms": 1788967327309,
+      "finished_unix_ms": 1788967332943,
+      "last_update_unix_ms": 1788967332943,
+      "progress": {
+        "completed": 9,
+        "total": 9,
+        "current_test_full_name": null,
+        "current_test_started_unix_ms": 1788967332486,
+        "last_finished_test_full_name": "LastLight.Tests.SystemRegistryTests.StartsDependenciesBeforeConsumersAndStopsInReverse",
+        "last_finished_unix_ms": 1788967332691,
+        "stuck_suspected": false,
+        "editor_is_focused": false,
+        "blocked_reason": null,
+        "failures_so_far": [],
+        "failures_capped": false
+      },
+      "error": null,
+      "result": {
+        "mode": "EditMode",
+        "summary": {
+          "total": 9,
+          "passed": 9,
+          "failed": 0,
+          "skipped": 0,
+          "durationSeconds": 0.9269625,
+          "resultState": "Passed"
+        },
+        "results": [
+          {
+            "name": "CancellationDoesNotLeaveStartedSystems",
+            "fullName": "LastLight.Tests.SystemRegistryTests.CancellationDoesNotLeaveStartedSystems",
+            "state": "Passed",
+            "durationSeconds": 0.0183708,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "ChildResolvesParentWithoutOwningItsShutdown",
+            "fullName": "LastLight.Tests.SystemRegistryTests.ChildResolvesParentWithoutOwningItsShutdown",
+            "state": "Passed",
+            "durationSeconds": 0.2662859,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "CycleReportsPath",
+            "fullName": "LastLight.Tests.SystemRegistryTests.CycleReportsPath",
+            "state": "Passed",
+            "durationSeconds": 0.0025886,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "DuplicateRegistrationRejected",
+            "fullName": "LastLight.Tests.SystemRegistryTests.DuplicateRegistrationRejected",
+            "state": "Passed",
+            "durationSeconds": 0.0002749,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "FailedInitializationCleansFailedSystemAndDependencies",
+            "fullName": "LastLight.Tests.SystemRegistryTests.FailedInitializationCleansFailedSystemAndDependencies",
+            "state": "Passed",
+            "durationSeconds": 0.0034917,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "LongLivedSystemCannotDependOnChild",
+            "fullName": "LastLight.Tests.SystemRegistryTests.LongLivedSystemCannotDependOnChild",
+            "state": "Passed",
+            "durationSeconds": 0.0004189,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "MissingDependencyReportsConsumerAndDependency",
+            "fullName": "LastLight.Tests.SystemRegistryTests.MissingDependencyReportsConsumerAndDependency",
+            "state": "Passed",
+            "durationSeconds": 0.0002225,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "PanelPrefabsAreAuthoredFullScreen",
+            "fullName": "LastLight.Tests.SystemRegistryTests.PanelPrefabsAreAuthoredFullScreen",
+            "state": "Passed",
+            "durationSeconds": 0.0064242,
+            "message": null,
+            "stackTrace": null,
+            "output": "LastLight panel configuration valid: five full-screen prefabs, four stretched layers.\r\n"
+          },
+          {
+            "name": "StartsDependenciesBeforeConsumersAndStopsInReverse",
+            "fullName": "LastLight.Tests.SystemRegistryTests.StartsDependenciesBeforeConsumersAndStopsInReverse",
+            "state": "Passed",
+            "durationSeconds": 0.2038551,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          }
+        ]
+      }
+    },
+    "hint": null
+  }
+}

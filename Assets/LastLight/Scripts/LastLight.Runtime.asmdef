@@ -1,0 +1,1 @@
+{"name":"LastLight.Runtime","rootNamespace":"LastLight","references":["LastLight.Core","LastLight.Framework","Unity.InputSystem","Unity.ugui","Unity.AI.Navigation"]}

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LastLight Architecture Local
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: LastLight Architecture Local
+  m_GUID: 04ee53fc7aa9eaf49b5a6716e67c2a86
+  m_SerializeEntries:
+  - m_GUID: 1e965b77ab1f3234cba6095214ecca55
+    m_Address: LastLight/Scenes/Menu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2630c593711e0824fa433524d6e282f7
+    m_Address: LastLight/Scenes/B
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47526186b8261254e88f1994da8cb2fd
+    m_Address: LastLight/Scenes/A
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 720fe4b4e02630643a7872e549c49448
+    m_Address: LastLight/UI/Loading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3d21ca4b0b4d7c468ccb09c765604e4
+    m_Address: LastLight/UI/Pause
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6fa1311bc5d03f4ab1acd0238ca1ef5
+    m_Address: LastLight/UI/HUD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5a341184fc513d40b3bb44f5f8d308c
+    m_Address: LastLight/UI/Menu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cff866f4d549ef94b907c15f2914260b
+    m_Address: LastLight/UI/Confirm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fff75729664f6ae4382b5f3d9897fd93
+    m_Address: LastLight/Prefabs/Token
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1caf797d6230b9f4eafedd5c7d7ac735, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 575d011f24371764ea26e29379161c14, type: 2}
+    - {fileID: 11400000, guid: 95b38b3a4221c5f428891206593fd9d1, type: 2}

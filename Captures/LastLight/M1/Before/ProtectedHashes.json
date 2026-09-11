@@ -1,0 +1,558 @@
+[
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Animation.meta",
+    "Hash": "6200D3BF96EFA227D34CA9F4E245DFF22CA68B11F93B41EC0709303FC30E06B5"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Editor.meta",
+    "Hash": "CCB6F05FFE705CFB56D567F4DBB0C55EFCA180046142CF356CE3F35F039E30A8"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials.meta",
+    "Hash": "A18C50943DC359F85F6E0EFF0E9B7BE338F370F9F82CF41BEC7688DC9AC8A735"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Meshes.meta",
+    "Hash": "58991F5A00DC3DCD31C3D1B5CF558017088E06E00F97A34E516D6E5AB454B524"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models.meta",
+    "Hash": "B3CDBB644F42BE8300134008390C8C1DCE0D48CF2A2B34C05F60114BC57C802B"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs.meta",
+    "Hash": "ACD7881E6D583C096DA726C20DA953915E7C32816CC6F010670474C1C34B2E3C"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\README.md",
+    "Hash": "CA5C67781354B9EA95A9F4A84A19BCBF9AF4B8760A42D5F4642200B244C70612"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\README.md.meta",
+    "Hash": "945C09B3AB7A33B254D5A6A6F116152776C234C38B8F9B06B54AE6A8665A896A"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Scenes.meta",
+    "Hash": "7BF0FAD073340175BCA1B1AEDDF3CCE9B766BF646E210E75739B964C2FE67043"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Scripts.meta",
+    "Hash": "D49F266FEB30DEC0E9CA2D42A7B94AD78EE16F529C8502EF24E804EA80188F12"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Shaders.meta",
+    "Hash": "A961D528A0CFE37A1F20A8B0777DF2D3FDB1ACF70AECC2706C790A478AEBE17F"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Animation\\Locomotion.asset",
+    "Hash": "7F100441C125BB2AEB67945D0E38F3BEC33FE570BCDA24A10AFD0B5834579CE6"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Animation\\Locomotion.asset.meta",
+    "Hash": "3F8D0B8C2A4B9CF7F1B4CD2CF0D320D6DC31DCD38C718B385F377632D7C79D38"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Animation\\Traveler.controller",
+    "Hash": "46CEC6F318651F2935A33F11B4A531A3416B2B0042AF107F1FC2BF181674623F"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Animation\\Traveler.controller.meta",
+    "Hash": "B16B1D769F86BDAD710A53C8C531C38BD459FFF241554B1BB006D87AFFDEFC48"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Editor\\SnowVillageBuilder.cs",
+    "Hash": "41CEE5E986BB6E28351C27ACDE26461F10F8AF5CA5D9EF1B1E25F192DD5E3E45"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Editor\\SnowVillageBuilder.cs.meta",
+    "Hash": "1919BEBD174DEF237D84B7AE32F769456B4A6907384BAF4AFBCC3F7AF3176E7E"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Editor\\SnowVillageValidation.cs",
+    "Hash": "67A17784BE20621EBC0A50E9848BD5CBCA7D18081F5B17AD1EB5275D7A6B6013"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Editor\\SnowVillageValidation.cs.meta",
+    "Hash": "FE8878501A93C9BAF8EDEB2B7A9DD28E1A0026DE3F0F414B9E08D955C966E0BF"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\BootLeather.mat",
+    "Hash": "EBA522AD7812BECFACC8F2E855B6D07F9B8208B4C29AFAC8A784175CD2801D69"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\BootLeather.mat.meta",
+    "Hash": "697A4DB422D4C4251F483C270660E97B3EA4C06E0EE05AD82F8908E4937C9757"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\BootSoles.mat",
+    "Hash": "C86A2B036542FED9B9542B51D5FC3C61130A2E6FDF8E914A97D3E0C390553AE3"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\BootSoles.mat.meta",
+    "Hash": "B95A146012A9EB965B02930BE75E69A36B8A6DD2A2A16F027A3675E22E4D5EE3"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\DarkWood.mat",
+    "Hash": "8844B5D0C06B166EAE7E7927A1321EF2C14936DBE07D5B784F86717BDA1C1DF5"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\DarkWood.mat.meta",
+    "Hash": "C1567AD4ADF8493E7A85286CEEC31750FBE53E8B0F360BE3FB9A346B1152C5F4"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Eyes.mat",
+    "Hash": "CE67242AB16010FCFC78D2E218719735D8329E39944423FBE2A9E41D258E705F"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Eyes.mat.meta",
+    "Hash": "A1DC4000127EBA74849AC96A7BE316A873B85F93594BE59AD4D40C3E70175840"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Face.mat",
+    "Hash": "C324BFF0D162305092D705E9534A415BA9EDA75BC62714EB8D15DC153CCC2DC4"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Face.mat.meta",
+    "Hash": "A279A176C00149B21B2B67A52AC3ED76F8C913A7139C721EDC3C0576DC644E19"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Footprint.mat",
+    "Hash": "BCBF718618ED7E4995734E14364D673A9306C277DE160ADD93A21AF0CD129376"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Footprint.mat.meta",
+    "Hash": "1B111FEFE9291793B715F057FC5E3E27B658BA421ADDA7FCDDE8ACF300906A83"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\HatRib.mat",
+    "Hash": "B7B4A5E265EB00026DA065CDEEC5D8B3EA3CFD6AF5AE59FF903042CFC780402D"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\HatRib.mat.meta",
+    "Hash": "36EF5E407BE2BE55C27C123AE77AB0B66E95304FCA24465A25BC21ECA277EC92"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Iron.mat",
+    "Hash": "DAB38F969584EAFCECB59C0136A07E33DB13664066DDDA240068A6DD378347A7"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Iron.mat.meta",
+    "Hash": "7080889E0E323339D8D12877166B2322B070D7CF027C004DAEB53D8AF4D6E293"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\OldTimber.mat",
+    "Hash": "26A17352814826323314326593F7C20C6471F6193F319F4E7C5EE38405023940"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\OldTimber.mat.meta",
+    "Hash": "36A75BEC67F4286893689F2216F5218E469948B144AF884813FF01989857DA25"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Parka.mat",
+    "Hash": "0609078001031767147F9F72AAD50EFAE976D7F0DC07391EA52DFC5DDE632ED0"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Parka.mat.meta",
+    "Hash": "46824F352ABA727159CA44BD6BD0551528D396210CC3EB5DE284FFCA8E80A17E"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\ParkaSeams.mat",
+    "Hash": "34058D75CB06FDEA1E22E05D878B9D6AFC06377B955205D655E87E436A5EF2DC"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\ParkaSeams.mat.meta",
+    "Hash": "0DD18BBBA694BF697D07946BD252DC07AC4A02318462B5F8D2EC60E2CEAEEB3A"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\RoofMetal.mat",
+    "Hash": "8625D65D44F3A0D6242F4609938479DC79F7388AFA9BA763F328DCF57FD58F20"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\RoofMetal.mat.meta",
+    "Hash": "3CCAE4C6A2A0BB62171A4B8569E3930AC680F2A8B55C42CA913D5AE530837EE1"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\RustScarf.mat",
+    "Hash": "4A0F59213512C4897E414E4ECB28CD7E03C915A6B978E1153853985695AAE664"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\RustScarf.mat.meta",
+    "Hash": "E0239B39D2091A375E2DB8789F9F76372F2B5EBD7787044F3769CEC9F85F2BFB"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Snow.mat",
+    "Hash": "1FBB4F4CFA8CBC8A0211991E83E7373DF9A85330C4DA16D5D56A81E1F3CA63F8"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Snow.mat.meta",
+    "Hash": "E10A9DC670791DCD0F1B35344184272E5B06F93A5DB2FA9404FF32A99223C4CD"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Snowflakes.mat",
+    "Hash": "D311DC0A81091130DA8AA7C13DB61DE87FF4675A10AB6A4F840B7F8B3DF42B3D"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Snowflakes.mat.meta",
+    "Hash": "B0A66A0643BEE9B620E8D8CCBD8B095B03566241BD39AB16F31A70A386A48931"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\SnowGrade.asset",
+    "Hash": "DD1A6DF505EE68E9B8905EDB6DB4CDCFC4FEE932984690457F5D50DA250DCB79"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\SnowGrade.asset.meta",
+    "Hash": "E7DE4F61E6AE925A05B5E2DF9CC622C4C6C56FCB034CC41B9970267295425C8D"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\SnowPipeline.asset",
+    "Hash": "0A793420C1E640CF7AF9DC0028D7E9B7F2D4B026A7DF30099D051D97A3C71D39"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\SnowPipeline.asset.meta",
+    "Hash": "0BAEC2FA6FEF42076FDDEEDE0D7B5F3BF3179B6ADD514A5B78B325A67BC6EF8C"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\TimberEdges.mat",
+    "Hash": "C247CC9CFE3D1A833641B062471577006F63FDDC3885F01B4B1312673566852D"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\TimberEdges.mat.meta",
+    "Hash": "DAABF4C6B871188EA0AB23BAEC5FEE7EC16BC7EFAF982370B10367416AA89073"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Trousers.mat",
+    "Hash": "5154F8EE880B1BCAF053444C2C5FBBB285DCED3B2054736C5AD7C5131C94BCEE"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\Trousers.mat.meta",
+    "Hash": "678536EBA6522C34FAAC5997EFAA9D72887C6DC700730910B351BE025D8445C3"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\WarmWindow.mat",
+    "Hash": "429EC7ADEFDEF7176EAB9BA393EE0BBA3DE19004F569A81276B1EAF5C24B82F0"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\WarmWindow.mat.meta",
+    "Hash": "5FD20096B0C0AF5013EB4C6A1C7E6BB04DAFE08C243988D4B0F738881288A781"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\WoolHat.mat",
+    "Hash": "9F0C3C807C15943AA98A56938A3191603359C50491AF561241865F8978C06B0A"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Materials\\WoolHat.mat.meta",
+    "Hash": "AEE8CACF07F8869399A953F4A0E48652A66A721A6A4210270BE67D4F1060A591"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Meshes\\SnowFootprint.asset",
+    "Hash": "1358234643310A08137BDF5963A2687CBA2F8B911AD3EEB0363E6355B83A3881"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Meshes\\SnowFootprint.asset.meta",
+    "Hash": "F4A25AEC9C327275173E9434B51992FAA7C40A088121A98F72AB7933048FA963"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Meshes\\SnowTerrain.asset",
+    "Hash": "50F7BA885B67D3E164B9ACC9147C2C0F6C88A58AB0DE50033BD8A82BF3C0C372"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Meshes\\SnowTerrain.asset.meta",
+    "Hash": "256EEFCDC27B41F5044F4F52E769198CB1840E2284C1ED79943E1B083105174A"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\BareTree.fbx",
+    "Hash": "DF250EBC4B117227DF47554545F44E8858A4184FEFDADE0DF543F16C99238F25"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\BareTree.fbx.meta",
+    "Hash": "7DAFF3C77918123B0E6ABDA1AA05217DD99BFCF76FB4D05E149256122F663DB5"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\Cabin.fbx",
+    "Hash": "730AC4CF63A0BC85F4D0811CF96F4E0ED4F204519634CE36B0A1E137DF9308E5"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\Cabin.fbx.meta",
+    "Hash": "2E16D699033BE924AD1AECAD5A466B691671B313B5E9C5F0DFC394C39BACF465"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\CoveredWell.fbx",
+    "Hash": "F9C5243AE633C2D6968228C70C3FE09E26A5D5624F1C433A9FF50FAE70F34AF0"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\CoveredWell.fbx.meta",
+    "Hash": "628139D162F711D5DBE42E7F3C778E5FE7654A6BD732A0D7C42AAC91F6E00DF5"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\FenceSection.fbx",
+    "Hash": "329BA329BFD512E9A70E5716F2096301D76BDA7BB63940943AF8AF2E8623FCD0"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\FenceSection.fbx.meta",
+    "Hash": "D907D6823620E4AC8EDBC3483B60AA944F9A0DE851DF54E320E2C46A7D778ECB"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\Traveler_Idle.fbx",
+    "Hash": "A0B7EF04D9DA82A9A181F16DE57A798AD98CF7885CDC825E1647537C37ED6C02"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\Traveler_Idle.fbx.meta",
+    "Hash": "9CE6D6E309C9272B6BD891B2A7510F4510ABC1620F1B74CA68AE60464E0FB07F"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\Traveler_Walk.fbx",
+    "Hash": "B99F306686C0626298A836432D77AF06E41412A16190CEAF0322F6571D5EEE1A"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\Traveler_Walk.fbx.meta",
+    "Hash": "CC299941E3C4D78742028718D3E881EC23E75FA9D2333FC2BD65DD132E7AF3DF"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\UtilityPole.fbx",
+    "Hash": "27546164853F4A8E4E0A0418F55810D46E19DB997B121C0FC085222BABE31F6E"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\UtilityPole.fbx.meta",
+    "Hash": "E4310587ED0A62A0175D1C210B107F9DBB890FC1C7E88488428683E6F01EA02A"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\Woodshed.fbx",
+    "Hash": "9A35EA38CD4A3F080B10578606E4BB37E5CAF6DBCCBE3BB9F9A65047A590D812"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Models\\Woodshed.fbx.meta",
+    "Hash": "6C694785A2F96EFC25DE37DCEA0DD679DFE1D99334960DDDE74829A0D11B2894"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\BareTree.prefab",
+    "Hash": "05793D8491F1EEFE607021A7962023E31A93BEF37F4C6699486B40049EF817A4"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\BareTree.prefab.meta",
+    "Hash": "8AB2BF3C96A0B9BB8DC3F5A768A1DF70624C05FB93308CA0D278EE98ABF38533"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\Cabin.prefab",
+    "Hash": "CC62B593EE1015FEA3BF83700DB48B063D134338F3AF84FCD4CB12F237899A88"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\Cabin.prefab.meta",
+    "Hash": "9635ED447F51F84034725D0BEF09882A4369DE014750E4900F3EB79FFE537305"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\CoveredWell.prefab",
+    "Hash": "A2F39E23DEAB136643CF294FE306275C6795675E6EC6CF2214FDA8D41B668B42"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\CoveredWell.prefab.meta",
+    "Hash": "3D330933CEBD2976B931A5E3774E12F07BE5B4ADBF552F1B6145A74A7E982E61"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\FenceSection.prefab",
+    "Hash": "0692569EDAD440EBBFA1051D84AC5AC951C12CBCE71163030A75FE18B19A5060"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\FenceSection.prefab.meta",
+    "Hash": "229D20B86B29D45D9D53E1737847A7E378A9033E308D98B593BB4693B5771821"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\SnowEffects.prefab",
+    "Hash": "A6692141BD58127CA5EE2745D7E44E287AAF55F0A78A2AF8EF2340C6191EB3AE"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\SnowEffects.prefab.meta",
+    "Hash": "9F988CAF2CD471AE92C2C9067DDBEB98AEEB1C180EA4D6DFD4F8642574E8DE21"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\UtilityPole.prefab",
+    "Hash": "C1012788F6D0691291C7FC9D041315663F54DD0DEEFF8FBDF3CD22F289090C6D"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\UtilityPole.prefab.meta",
+    "Hash": "BB545D31D3A24286AD885DCDDA032590047213A07305E9603BF33C8F363A1A06"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\WinterTraveler.prefab",
+    "Hash": "0B0A5DC5E928E0CEFC06FD0D9695C4429AFBB2F3DCF425B4BD57B7003EB6B38C"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\WinterTraveler.prefab.meta",
+    "Hash": "25B941A1532A888742E15D2B3CAE2F20B49020BE3CC36DA37E40C531B89B1E13"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\WinterTravelerVisual.prefab",
+    "Hash": "5BF7869DC047CF8E497E15A62047B84B75B095179AC9C418A4BC31F182C49480"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\WinterTravelerVisual.prefab.meta",
+    "Hash": "D75F64A14231981FDADB1600AFFE4A15185BBCA06D913BF68E9BB47F81FCED16"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\Woodshed.prefab",
+    "Hash": "C21E9CDF47B96FAB05B5622310932D1534C4DB4040B70668A4AE4A4A69852580"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Prefabs\\Woodshed.prefab.meta",
+    "Hash": "BD5217408D89116A4E8CA5EDEC834CED25997C99BF1AC19E8B3165BF86F86813"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Scenes\\SnowVillage.unity",
+    "Hash": "43FA2CD1102DE99E95977C49EB988BD927CF2FD2A6398074F512546ABEDEF2D2"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Scenes\\SnowVillage.unity.meta",
+    "Hash": "93FD8382A740051D07574239CA3A4FBECA4BA1702EFF93FA111DE759CBA77303"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Scripts\\SnowFootprints.cs",
+    "Hash": "D455F2084D4DBBBBD652E83E02F76B0888E69F426DF28FB8D331F4B9A93D1918"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Scripts\\SnowFootprints.cs.meta",
+    "Hash": "8A31B152021027920327720CB2E8B959741C2B8720E82C17C9267F2D3F65504A"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Scripts\\SnowFootstepRelay.cs",
+    "Hash": "6DBD502AFF250C1C6385BD3F3A19E0899FCC011195BFBF9A1B11CF8843385481"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Scripts\\SnowFootstepRelay.cs.meta",
+    "Hash": "7EAB254CDEF697319ECB49E58C13FA63CC61B4AE4CF288A23FB1A4DDAF7B3A89"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Scripts\\SnowTraveler.cs",
+    "Hash": "EA62A5C929E5D4AE5C791D8AD78C8348C9C82612C68CE5D2AA11DECB3E0850FD"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Scripts\\SnowTraveler.cs.meta",
+    "Hash": "8402C3899A713074D1BF285C0FA9C07E2FD3E1B06ED89E3B75E1F8AC16BD4478"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Shaders\\SnowPrint.shader",
+    "Hash": "A7F792EFC1934235F21A84BC4CD440DF906FA206B140221A9CCB512B3C821919"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\SnowVillage\\Shaders\\SnowPrint.shader.meta",
+    "Hash": "3B71ED730E2DA34039C5D961B49D8A97CC328500810510112854923930F379C0"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Configuration.meta",
+    "Hash": "F99DC0E8BE1EE974927A395997E31160EDDDF2761E0817B83DF31DC0ED366444"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Materials.meta",
+    "Hash": "D6ED3EFD41C6573C182AD41F729A4DFFB4D9D968D2E8F1CAD252C2FE42CD810E"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs.meta",
+    "Hash": "AA02534E10D8B6030143FA369053F004D707E31CDD28E50E98F5F674D0608193"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Scenes.meta",
+    "Hash": "06153EC7FADFA6E98466F2CD1AFF56F883FCE7D2F755F82DFC83DB9552130450"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Configuration\\Panels.asset",
+    "Hash": "00700EF393F4B2C8F0DCB55F40F91595F27B50B898125E031D65DF5F0C0A183F"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Configuration\\Panels.asset.meta",
+    "Hash": "F5E35147CE3CB5767108E8FED35E7E354D6D022436E783E476B692AD8F51BF32"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\Confirm.prefab",
+    "Hash": "8388F0895A94E75CA8D1CCFF27DA423F4F6602CC85AA60FFCC47F6A8BA4917B7"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\Confirm.prefab.meta",
+    "Hash": "CFCE697D597285AB6FD4AAEA74556B33D85F5540BE933EE5E8355ED7C531C6A7"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\GlobalRoot.prefab",
+    "Hash": "8960D2C97B6D1CAF94E42ED2DF77AEE422795C28839EFF8B4E4B384072CB7FB7"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\GlobalRoot.prefab.meta",
+    "Hash": "A5366680D7D6D831A1DD2776727FD60EDFF063EEE5845711654A3187F30D158D"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\HUD.prefab",
+    "Hash": "E519AE1F840B8AC812656AAA9C8261636023EC653CEE245EA36D2D6715A8486A"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\HUD.prefab.meta",
+    "Hash": "21FF92B3AAE37C67E61DDE7C812F2860C4089C680B72108A2BFAA8D9AB09EF09"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\Loading.prefab",
+    "Hash": "8C4536F8184041F5129418384F178651647E6D56D6BF23E7FCE5244900A496AF"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\Loading.prefab.meta",
+    "Hash": "1AA60BF88E24B976B761C3018750FB3FBDB1A62F3EF4F241A99116B668D13248"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\Menu.prefab",
+    "Hash": "54D4EA92B8F3A8A4D0E4B46017BEA7C4A2E8F1E7F40BB9695712830FBCAB81AE"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\Menu.prefab.meta",
+    "Hash": "71BDD7702CB7C2FAF87AF260D1F206E7272749B716078DEA4A2210C817C373E6"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\Pause.prefab",
+    "Hash": "BF73233CD86679D68BBFA8D48765CC9C5213A1F5E7066568B50D719421B83C59"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\Pause.prefab.meta",
+    "Hash": "4DC9F89ACDC42DDD5CAE07BDFF7BA4A4F31C28F33E964C88C770406D9EE5ACF6"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\StartupRecovery.prefab",
+    "Hash": "2D42CDA797AEB67CC637AFFC813AA42412617CF98992DE804A1F1EFD2EFE4599"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\StartupRecovery.prefab.meta",
+    "Hash": "5A3516E3DB7B31E19F5ED4AA78F08EACE23D4BB49726BA79BA67B0B0BC8618A2"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\Token.prefab",
+    "Hash": "9722DF2293B6C3AE58994E37EBBFBEA82AC28D06931884DBA96162CBF4864427"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Prefabs\\Token.prefab.meta",
+    "Hash": "7627FDF0EC3F1B4762029571F46D31A987772CC6DDD349E52C1D2421ED805E2B"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Scenes\\A.unity",
+    "Hash": "594FC5724DA3617DDFECC7BF90561A0FA404898FF0A9E22F36422789513802CA"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Scenes\\A.unity.meta",
+    "Hash": "CEB8DD8C60D121CA6BCAEB90AB6C1F4136E5B5BAE6A8598D0DFF6CEB3916CEE0"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Scenes\\B.unity",
+    "Hash": "BD45C21AA370887B059D7CCC6201B3A278B49874F6AF5F9DF50990962AD27788"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Scenes\\B.unity.meta",
+    "Hash": "989EC55C3AF02809018647D1F538D9D7B427489D1F27996AD63721A90E587265"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Scenes\\Bootstrap.unity",
+    "Hash": "5A4E5D088D2285FDBAEDD0C0363CB98DCA60E2557017C1ACCA84C0EE12DF4A44"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Scenes\\Bootstrap.unity.meta",
+    "Hash": "6640BB6DE747DBE5F9BF3765029DAF50BC13C81F01F90EF192553F158113A18D"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Scenes\\Menu.unity",
+    "Hash": "92BD46F8E4AF99FB1B75BAB86588FB02A3C8BAC628385FCCD04DBA7EE573EA1F"
+  },
+  {
+    "Path": "D:\\BaiduSyncdisk\\unity\\Chongfandiq\\Assets\\LastLight\\ArchitectureSample\\Scenes\\Menu.unity.meta",
+    "Hash": "01B116325C97F59293AC7A17E551212159255F3C7A1E5B95F94C04D2AE7AE1F5"
+  }
+]

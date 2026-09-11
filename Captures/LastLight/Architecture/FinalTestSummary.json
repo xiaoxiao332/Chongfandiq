@@ -1,0 +1,12 @@
+{
+  "date": "2026-09-10",
+  "editMode": {"total":9,"passed":9,"failed":0,"skipped":0,"durationSeconds":1.1809299,"resultState":"Passed"},
+  "packedPlayMode": {"total":1,"passed":1,"failed":0,"skipped":0,"durationSeconds":7.8872894,"resultState":"Passed"},
+  "resolutionMatrix": [
+    "PASS 1920x1080",
+    "PASS 1920x1200",
+    "PASS 2560x1080",
+    "PASS 1280x720"
+  ],
+  "note": "User requested no further tests after these results; the subsequently started extra no-domain-reload repetition was stopped and is not counted."
+}

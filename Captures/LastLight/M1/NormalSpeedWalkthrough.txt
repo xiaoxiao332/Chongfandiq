@@ -1,0 +1,6 @@
+0.0s | active 4.6s | 苏醒与暖炉
+FAIL: 走路受阻 (-2.55, 0.06, 6.66) -> (20.00, 0.00, -20.00)
+System.TimeoutException: 走路受阻 (-2.55, 0.06, 6.66) -> (20.00, 0.00, -20.00)
+  at LastLight.Editor.M1Walkthrough.Move (UnityEngine.Vector3 target) [0x000b6] in D:\BaiduSyncdisk\unity\Chongfandiq\Assets\LastLight\Editor\M1Walkthrough.cs:40 
+  at LastLight.Editor.M1Walkthrough.Use (System.String id) [0x0003d] in D:\BaiduSyncdisk\unity\Chongfandiq\Assets\LastLight\Editor\M1Walkthrough.cs:51 
+  at LastLight.Editor.M1Walkthrough.Run () [0x0035b] in D:\BaiduSyncdisk\unity\Chongfandiq\Assets\LastLight\Editor\M1Walkthrough.cs:72 

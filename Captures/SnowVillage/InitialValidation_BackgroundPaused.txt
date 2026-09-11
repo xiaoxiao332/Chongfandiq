@@ -1,0 +1,20 @@
+Started: 2026-09-09T03:39:29.0348887+08:00
+FAIL 120 second automatic walk: stamps=1, position=(-0.12, 0.11, 1.35)
+FAIL bounded scene objects: before=408, after=409, active dynamic footprints=1
+Editor frame interval samples=1191, mean=59.48ms, max=2657.45ms (Editor, not player benchmark)
+FAIL keyboard W: distance=0.000, delta=(0.00, 0.00, 0.00)
+FAIL keyboard S: distance=0.000, delta=(0.00, 0.00, 0.00)
+FAIL keyboard A: distance=0.000, delta=(0.00, 0.00, 0.00)
+FAIL keyboard D: distance=0.000, delta=(0.00, 0.00, 0.00)
+FAIL keyboard W+A: distance=0.000, delta=(0.00, 0.00, 0.00)
+FAIL keyboard W+D: distance=0.000, delta=(0.00, 0.00, 0.00)
+FAIL keyboard S+A: distance=0.000, delta=(0.00, 0.00, 0.00)
+FAIL keyboard S+D: distance=0.000, delta=(0.00, 0.00, 0.00)
+PASS idle stops movement and footprints: stamps=0, speed=0
+FAIL Tab enables demo: automatic=False
+PASS WASD takes over demo: automatic=False
+FAIL R resets tracks and demo: stamps=0, position=(0.00, 0.15, 1.00)
+PASS woodshed blocks movement: position=(1.00, 0.11, 0.96)
+PASS footprint pool wraps at 256: active=256, total=300
+PASS reset clears pool: active=0
+Complete

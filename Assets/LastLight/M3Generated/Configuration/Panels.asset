@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0053e6d77da2c14469e64deb81c8f292, type: 3}
+  m_Name: Panels
+  m_EditorClassIdentifier: LastLight.Framework::LastLight.PanelCatalog
+  Panels:
+  - Id: M1HUD
+    Address: LastLight/M3/UI/M1HUD
+    Layer: 0
+    Modal: 0
+    Pause: 0
+    Closable: 0
+    Cache: 1
+    Lifetime: 1
+  - Id: M1Inventory
+    Address: LastLight/M3/UI/M1Inventory
+    Layer: 1
+    Modal: 1
+    Pause: 1
+    Closable: 1
+    Cache: 1
+    Lifetime: 1
+  - Id: M1Journal
+    Address: LastLight/M3/UI/M1Journal
+    Layer: 1
+    Modal: 1
+    Pause: 1
+    Closable: 1
+    Cache: 1
+    Lifetime: 1
+  - Id: M1Pause
+    Address: LastLight/M3/UI/M1Pause
+    Layer: 1
+    Modal: 1
+    Pause: 1
+    Closable: 1
+    Cache: 1
+    Lifetime: 1
+  - Id: M1Window
+    Address: LastLight/M3/UI/M1Window
+    Layer: 1
+    Modal: 1
+    Pause: 1
+    Closable: 1
+    Cache: 1
+    Lifetime: 1
+  - Id: M1Event
+    Address: LastLight/M3/UI/M1Event
+    Layer: 2
+    Modal: 1
+    Pause: 1
+    Closable: 1
+    Cache: 1
+    Lifetime: 1
+  - Id: M1End
+    Address: LastLight/M3/UI/M1End
+    Layer: 2
+    Modal: 1
+    Pause: 1
+    Closable: 1
+    Cache: 1
+    Lifetime: 1
+  - Id: M1Build
+    Address: LastLight/M3/UI/M1Build
+    Layer: 1
+    Modal: 0
+    Pause: 1
+    Closable: 1
+    Cache: 1
+    Lifetime: 1
+  - Id: M1Loading
+    Address: LastLight/M3/UI/M1Loading
+    Layer: 3
+    Modal: 1
+    Pause: 1
+    Closable: 0
+    Cache: 1
+    Lifetime: 1

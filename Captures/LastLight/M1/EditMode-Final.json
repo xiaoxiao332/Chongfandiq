@@ -1,0 +1,224 @@
+{
+  "job_id": "763c53e2181e43188f016683ea6f1c2d",
+  "status": "succeeded",
+  "mode": "EditMode",
+  "started_unix_ms": 1789023651171,
+  "finished_unix_ms": 1789023656379,
+  "last_update_unix_ms": 1789023656379,
+  "progress": {
+    "completed": 21,
+    "total": 21,
+    "current_test_full_name": null,
+    "current_test_started_unix_ms": 1789023656152,
+    "last_finished_test_full_name": "LastLight.Tests.M1RulesTests.ZeroInventoryCanRecoverWithoutMachineOrBench",
+    "last_finished_unix_ms": 1789023656153,
+    "stuck_suspected": false,
+    "editor_is_focused": false,
+    "blocked_reason": null,
+    "failures_so_far": [],
+    "failures_capped": false
+  },
+  "error": null,
+  "result": {
+    "mode": "EditMode",
+    "summary": {
+      "total": 21,
+      "passed": 21,
+      "failed": 0,
+      "skipped": 0,
+      "durationSeconds": 0.6145014,
+      "resultState": "Passed"
+    },
+    "results": [
+      {
+        "name": "AllOrdinaryRecipesHaveRenewableSources",
+        "fullName": "LastLight.Tests.M1RulesTests.AllOrdinaryRecipesHaveRenewableSources",
+        "state": "Passed",
+        "durationSeconds": 0.0126031,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "BlockedRepairDoesNotAdvanceOrConsume",
+        "fullName": "LastLight.Tests.M1RulesTests.BlockedRepairDoesNotAdvanceOrConsume",
+        "state": "Passed",
+        "durationSeconds": 0.0104635,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "ChoicesChargeOnceAndNeverRevokeShortcut(1,2)",
+        "fullName": "LastLight.Tests.M1RulesTests.ChoicesChargeOnceAndNeverRevokeShortcut(1,2)",
+        "state": "Passed",
+        "durationSeconds": 0.0010351,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "ChoicesChargeOnceAndNeverRevokeShortcut(2,1)",
+        "fullName": "LastLight.Tests.M1RulesTests.ChoicesChargeOnceAndNeverRevokeShortcut(2,1)",
+        "state": "Passed",
+        "durationSeconds": 0.0000531,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "ChoicesChargeOnceAndNeverRevokeShortcut(3,0)",
+        "fullName": "LastLight.Tests.M1RulesTests.ChoicesChargeOnceAndNeverRevokeShortcut(3,0)",
+        "state": "Passed",
+        "durationSeconds": 0.0000371,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "ClosedRoomRequiresDoorAndDestroyedWallOpensIt",
+        "fullName": "LastLight.Tests.M1RulesTests.ClosedRoomRequiresDoorAndDestroyedWallOpensIt",
+        "state": "Passed",
+        "durationSeconds": 0.0064325,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "CraftOutputFullDoesNotConsumeInput",
+        "fullName": "LastLight.Tests.M1RulesTests.CraftOutputFullDoesNotConsumeInput",
+        "state": "Passed",
+        "durationSeconds": 0.0005566,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "DamagedBuildingsCannotMoveOrRefund",
+        "fullName": "LastLight.Tests.M1RulesTests.DamagedBuildingsCannotMoveOrRefund",
+        "state": "Passed",
+        "durationSeconds": 0.0011965,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "FullRewardStorageDoesNotReserveBed",
+        "fullName": "LastLight.Tests.M1RulesTests.FullRewardStorageDoesNotReserveBed",
+        "state": "Passed",
+        "durationSeconds": 0.0004616,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "OccupiedBedCannotFulfillPromise",
+        "fullName": "LastLight.Tests.M1RulesTests.OccupiedBedCannotFulfillPromise",
+        "state": "Passed",
+        "durationSeconds": 0.0001668,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "PickupCannotDuplicateAndSurvivesSceneReentry",
+        "fullName": "LastLight.Tests.M1RulesTests.PickupCannotDuplicateAndSurvivesSceneReentry",
+        "state": "Passed",
+        "durationSeconds": 0.0006538,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "PromiseHasOneExtensionAndExplicitWithdrawal",
+        "fullName": "LastLight.Tests.M1RulesTests.PromiseHasOneExtensionAndExplicitWithdrawal",
+        "state": "Passed",
+        "durationSeconds": 0.0001648,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "RaidLossHasCapAndSingleSettlement",
+        "fullName": "LastLight.Tests.M1RulesTests.RaidLossHasCapAndSingleSettlement",
+        "state": "Passed",
+        "durationSeconds": 0.0008411,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "RefusalWorksWithZeroParts",
+        "fullName": "LastLight.Tests.M1RulesTests.RefusalWorksWithZeroParts",
+        "state": "Passed",
+        "durationSeconds": 0.0001481,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "RepairConsumesOnlyAtCompletion",
+        "fullName": "LastLight.Tests.M1RulesTests.RepairConsumesOnlyAtCompletion",
+        "state": "Passed",
+        "durationSeconds": 0.0006571,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "RepeatedCostsCannotOverdraw",
+        "fullName": "LastLight.Tests.M1RulesTests.RepeatedCostsCannotOverdraw",
+        "state": "Passed",
+        "durationSeconds": 0.000221,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "RescueDoesNotTouchStorageOrStory",
+        "fullName": "LastLight.Tests.M1RulesTests.RescueDoesNotTouchStorageOrStory",
+        "state": "Passed",
+        "durationSeconds": 0.0032277,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "ReservedLaneCannotBeBuiltOver",
+        "fullName": "LastLight.Tests.M1RulesTests.ReservedLaneCannotBeBuiltOver",
+        "state": "Passed",
+        "durationSeconds": 0.0002125,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "StackBoundaryAndTransferAreAtomic",
+        "fullName": "LastLight.Tests.M1RulesTests.StackBoundaryAndTransferAreAtomic",
+        "state": "Passed",
+        "durationSeconds": 0.0004176,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "VisitorBedAndRewardCommitOnce",
+        "fullName": "LastLight.Tests.M1RulesTests.VisitorBedAndRewardCommitOnce",
+        "state": "Passed",
+        "durationSeconds": 0.0002227,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      },
+      {
+        "name": "ZeroInventoryCanRecoverWithoutMachineOrBench",
+        "fullName": "LastLight.Tests.M1RulesTests.ZeroInventoryCanRecoverWithoutMachineOrBench",
+        "state": "Passed",
+        "durationSeconds": 0.0007624,
+        "message": null,
+        "stackTrace": null,
+        "output": ""
+      }
+    ]
+  }
+}

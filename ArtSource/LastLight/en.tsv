@@ -1,0 +1,402 @@
+td860e3479c	: Missing actor input, animator or camera
+t7095f76453	Charge warning
+tf26c241833	The branchhorn retreats.
+t6c22f8cbfd	The branchhorn retreats into the woods. No loot is needed for the mission.
+t124b9dbf18	Storage hit (
+t9c24052e71	/3). Distract the branchhorn or protect the entrance.
+t108eb7aa9c	M1Prototype is missing GlobalRoot
+t9b4073b64a	Start from M1Prototype alone; a LastLight root already exists
+td3f9844799	Last Light on Earth
+t45ea2ef541	Following the warm lights...
+t648f281592	Operation failed: 
+taf4308792e	Startup failed: 
+tba4b6e0001	\nCheck the Console, fix the error, then restart Play Mode.
+t535110db4b	: Duplicate session context
+t2f8c9fad99	: Missing M1GameSession
+teb03034bab	Submit hits through RecordRaidStrike
+t8081bdcc86	: Missing references actor={0}, follow={1}, camera={2}, signal={3}, objects={4}, nodes={5}, beasts={6}
+ta633eaa682	: Home is missing Liang or the stove light
+te914b222c8	: Null node or duplicate stable identifier
+tfb0789e50f	Scene navigation generation failed
+t6eb186dd22	Last Light / Late Winter
+t3657f48b28	WASD Move · E Interact · B Build · Tab Inventory · J Journal
+t128025fd34	Old Workshop: follow the outer route to retrieve the mission part without fighting.
+t0afc4ed740	Waiting for the next repair
+t2ae339494f	Waiting for the activation part
+t612d324928	Rest complete. Check rations and fuel before your next trip.
+tdbe00e5028	Home
+tcb5e5cb0fb	Old Workshop
+t018ec04c58	Health {0:0}   Food {1:0}   Exposure {2:0}\nInventory {3}/12 slots   {4} · Active time {5:0.0} min\n\n{6}\n\n
+t601fbd4079	Branchhorn raid: storage hits {0}/3\n
+tc4e359e749	Recovery buffer: {0:0.0} min\n
+t32feb039a8	\n\nWASD Move · Shift Sprint · Left click Hammer\nE Interact · F Eat · B Build · Tab Inventory · J Journal · Esc Pause
+t85c78e079b	The marked building plot is north of the terminal. Deposit materials first.
+t1fcaf9de02	Safe scavenging spots replenish. Basic resources never require combat.
+t310949291f	{0} {1} · {2:0} m
+t8d56d822a1	Approach an indicated object and interact.
+tf677d9062f	Have Liang repair the bridge and resolve the home raid first.
+tad248c21cc	Greenhouse sample
+td4b2f6ee10	This crop is permanently unlocked. Sowing uses a little common material, never a unique seed.
+tcc13fe962a	Biological maintenance record
+t148df5fd2e	The cultivation tanks once sustained living tissue.\n\nOnly one signature remains: Sprout.\n\nLife in the greenhouse kept growing without its keepers. Take samples and plant them at home.
+t31bd392b96	Inventory full. Return home and deposit supplies.
+t5670aeb9b3	Found Liang's activation part. It is protected, and the workshop return shortcut is open.
+t5050d2e396	A part that is still warm
+t8e233da0b2	The workshop maintenance box still has power. The evacuees left the activation part behind.\n\nYou place it in the mission inventory. It takes no cargo space and survives rescue. The return shortcut is now open.
+t6410f0da8b	Evacuation record: the construction machine was left waiting for the next human authorizer.
+t26e408d405	Evacuation record / 07
+t7ace1c2754	After the final transport left, the maintenance village entered low-power mode.\n\n"Keep one light on. If anyone returns, let them know this place can be repaired."\n\nThe system calls you a human authorizer. Liang is still waiting.
+td110feb9b2	Repair the stove and build a room with a bed and storage before your first journey.
+t04327013d3	Resolve the home raid first, or request rescue from the pause menu.
+t2c81c0bfe9	Retrieve the activation part to unlock this route home.
+t7d20d0b635	The old drain has not been marked. The regular workshop route remains open.
+t0c3430bd63	Collected Scrap ×6 through Cen's low-risk route.
+tcb63c62e50	Understood
+t120b3ed549	{0,-6}   Carried {1,3}   /   Storage {2,3}
+t82b6b84bcf	Inventory and shared storage
+t5fd9621110	Deposit
+t44fd7b3c1c	Withdraw
+t7f92393921	Shared storage is accessible at home
+tcdcf7f24a7	View only while away; return home to transfer
+t760d13f681	Liang's activation part (protected)
+tc9301e7375	Not found
+td5c363b26c	\n\nMode: {0} one unit. {1}\nMission part: {2}
+t4ab4cc07ba	Deposit / Withdraw
+tef2bde0bfa	Deposit all
+t6c14bd7f6f	Close
+tb08e27cc88	Return home to access shared storage.
+td38fea4a0e	Deposited 
+t03caa791c9	 units of supplies.
+t469a7ded50	Insufficient quantity or destination full.
+t68bfd09817	Maintenance journal
+t9b586eec8a	\n\nLiang: 
+td771d0a1b6	\nPromise: 
+t2eaa17bba8	\n\nThis journal records your actions. The prototype time target is not a countdown.
+t130448bce6	Paused
+t3232f61dac	The world and danger are paused.\n\nThis M1 prototype stores progress in memory only. Restarting clears the run.\n\nIf stuck, request the maintenance tow vehicle. Normal rescue losses apply.
+t1fc1afc5c5	Resume
+tcad0a16196	Request rescue
+tc5a1847f69	Restart this run
+tff7f7651ec	Restart?
+t96df785b9d	Buildings, resources and story choices in this run will reset.
+tf17fc9b7f6	Restart
+t4d0b4688c7	Cancel
+tbcf0dd070b	Emergency handcrafting
+t8a11cc18b1	\n\nWood ×1 → Fuel ×1\nScrap ×2 → Repair parts ×1\nHandcrafting needs no machine, power or working bench.
+t33e9873705	Make fuel
+t01c321bc7e	Make repair parts
+t56ca415588	Crafted and placed in shared storage.
+tab0fb1c9fe	Insufficient materials or storage full.
+t6555216586	Emergency stove
+tc75ec33ffb	Stove repaired. Heating remaining: {0:0} seconds\n\nFuel ×1 provides five minutes of heat. Indoors or near the stove, exposure falls and health recovers.\n\n{1}
+t9a3409d702	Stone ×2, Scrap ×2 to repair the stove.\n\nGather nearby and deposit supplies first. Repair provides emergency fuel and rations once.
+t5bd21fc6b0	Repair / Add fuel
+ta4843e8c7e	Need Stone ×2, Scrap ×2 and room in shared storage.
+t7c4ce681bd	Emergency stove repaired. Safe resources replenish. Hunger and cold now gradually take effect.
+t369941cdb1	Fuel added. The warm light will last a little longer.
+t0454652567	No fuel in storage. Convert wood at the handcrafting bench.
+t05a4410426	Liang / Construction repair
+tbe756a2bb8	Frost covers Liang's lens.\n"Activation core missing. Awaiting human authorization."\n\nRetrieve the fixed part from the Old Workshop. Fighting the branchhorn is optional.
+t0bf964ee64	"First, make sure the door opens. We can repair the rest slowly."\n\nJob: {0}\nRepairs completed: {1}\nClaim four repair parts to receive Cen's request.\n\nRepairs use shared storage. You can still repair manually if Liang stops.
+t52938b6a3e	Activate / Claim parts
+t6e219fd234	Toggle repair job
+t4420e0d76c	Repair Liang (Parts ×1)
+tc84a6ea9d1	The activation part is still in the Old Workshop.
+t602923b430	Liang is awake. The construction repair job is available.
+t9715fefb27	Received Repair parts ×4. Reinforcing the doors and helping Cen compete for these parts.
+t4dffb50500	Liang delivered four repair parts. A distress call reached the terminal.
+t87bf0f0634	Shared storage full. Make room before claiming the reward.
+tae4e3e499a	Looking for damaged buildings
+t20e5a6dff8	Job paused
+t4f5258571b	Liang is working again.
+t021fd58b33	Repairing Liang needs Parts ×1. Emergency handcrafting remains available.
+t72077749f7	None
+t916af5813a	Pending: visitor bed + Rations ×2
+t97c62fc950	Extended once. Fulfill or withdraw when ready.
+tbf8fcb9bc9	Fulfilled; visitor bed reserved
+tb6837a7177	Withdrawn; this cooperation ended
+tf9dc39456c	Maintenance terminal: welcome back, human authorizer. Follow the warm lights to repair your home.
+t92b710b780	Earth is quiet when you wake
+t7ca7450e1a	The maintenance pod closes behind you. Snow half-buries the old road. The terminal still glows.\n\n"Welcome back, human authorizer."\n\nGather nearby wood, stone and scrap. Deposit them in shared storage, then repair the emergency stove.
+te9a948c32d	Home terminal
+t765dfc6b4e	\n\nDoor reinforcement: Parts ×4, reducing charge damage to doors.\nBuild barricades to delay the beast, or distract it with your hammer. The first raid waits for your confirmation.
+td7a24a980c	Defense guide
+t71918ed7a8	Reinforce doors
+tfe02737dd7	I am ready
+t0ddc089d7d	Fulfill bed promise
+t4fdfd76278	Extend once
+t16df7b2f6e	Withdraw promise
+t078d1ce443	Read consequences
+td21b5674ed	A branchhorn approaches
+t800e7e65e6	The branchhorn lowers its head and marks a charge lane before rushing forward.\n\nMove sideways to dodge. Hammer attacks have a wind-up and stamina cost. Barricades slow it; destroyed walls and doors leave gaps.\n\nThree hits on storage end the defense in failure. Each resource loses at most 10%, capped at five units, and at most two ordinary facilities are damaged. Repairs restore them; mission progress remains safe.\n\nDuring raids you may repair, but cannot edit layouts. Reading pauses survival, production and attacks.
+tfd9c60c78f	Doors are already reinforced.
+t95e38540b5	Build a door first.
+t20a1a3ec70	Doors reinforced. Charge damage to doors is reduced.
+t356f7cd687	Reinforcement complete.
+tc96615a2af	Door reinforcement needs Repair parts ×4.
+tadc53d726d	Provided a visitor bed and Rations ×2. Received Wood ×8 and Scrap ×4.
+t792b2682ba	Cen delivered the agreed supplies. The visitor bed is reserved.
+tab744f4872	Need a pending promise, an intact unoccupied visitor bed, Rations ×2 and room for the reward.
+t8f8f3f3de7	Extended once. You can still fulfill the promise when ready.
+t287eb225e9	This promise cannot be extended again.
+t3eeb22e437	Promise withdrawn. Cooperation ends, but the main story continues.
+t7ac3f01c44	No promise can be withdrawn now.
+t5687fbb08f	Lend you a light
+tb319ed3042	Cen: "Your light is on. My companion fell by the old well. I need two repair parts. Leave them outside the fence; you need not open the door."\n\nLiang: "The doors need four parts. Helping will delay reinforcement. A wooden barrier can still buy time."\n\nAid: Parts ×2; unlock an extra low-risk scavenging route.\nTrade: Parts ×1; promise a visitor bed and Rations ×2. Payment arrives only after fulfillment.\nRefuse: pay nothing; keep the parts for your doors.\n\nAll choices continue the story. The return shortcut remains available.\nParts in storage: 
+tdfe6ab3e1a	Aid: give two parts
+t2625cdd2b3	Trade: part + bed promise
+tf06bc110fd	Refuse: protect home
+t28f5a573c0	Answer later
+t3d2bffb0aa	Not enough repair parts. Craft some or answer later.
+tfdd7ec0703	Helped Cen. The low-risk old drain route is marked.
+t657fecea81	Traded one part for hauling, with a promise of a visitor bed and rations.
+td9b859d86e	Refused this request. Cen left; the regular route remains open.
+t3fa4458060	Complete the first defense before reading its consequences.
+tbd237f3a93	Cen: "He is standing again. The old drain is safe; I marked it on your sign."\n\nThe low-risk route is open. Your help received an answer.
+t531dea9842	Cen looks at the bed inside.\n\n
+t6bd50d25f4	. She remembers what you actually arranged.
+tb036315092	Cen did not ask to enter again. You kept the parts and chose to protect your home first.\n\nHer departure brought no revenge. Ordinary trade may still be possible later.
+t6dea749e5b	After the visit
+t166fd2787c	Late Winter / The light stays here
+t9a2c717e3f	\n\nExploration, building, a choice and a danger are complete.\nActive time: {0:0.0} min\nElapsed time: {1:0.0} min\nBuildings: {2} · Liang repairs: {3} · Rescues: {4}\n\nThis is the end of M1. Spring and the greenhouse belong to the next stage.
+t8194215f65	Keep building
+tdfea33e936	Ate one ration.
+tb60396ec54	Already full, or no ration carried.
+t5b827051a8	A short rest
+tde82f0306a	Rest for 20 active seconds to recover health and exposure. Unresolved raids cannot be skipped.\n\n
+ta2e6130ceb	First use assigns this bed to you. A visitor promise needs a separate bed.
+t5a0ed2cb19	The maintenance pod always offers basic rest.
+tda11d57634	Rest
+t46b300be3c	Resolve the announced threat first. Sleep cannot skip a raid.
+t144b9ede4a	This bed is unavailable.
+te0af22ecde	Resting for 20 seconds.
+tff10cbff94	Repair 
+t11d4fcf2be	Health 
+t63faac2c55	/100\nNeeds 
+tdd5b5d8c1c	\nRepair takes eight active seconds nearby. Materials are charged once on completion.
+tfdf2eaab94	Start repair
+t82b8f0cc03	Repairing. Stay near the target.
+te15531d486	Insufficient materials.
+te622ceec42	Building intact. Use build mode to change the layout; interact to repair when damaged.
+tef11312b54	Liang completed a repair.
+t9464ada769	Repair complete.
+t30fbe67d5f	Waiting for your repair
+t888815abcf	Repairing {0:0}/8 seconds
+tc3182d0a08	Needs repair: Parts ×1
+tbaa1c2303c	Inspection complete; waiting for damage
+t73775b9dd0	Missing materials: 
+t89847eba82	Navigation unavailable; awaiting recovery
+t864170a60d	Route blocked; clear the path
+teba3b8ec21	Moving to repair site
+t79c638bb2e	Prepare your home, activate Liang, answer Cen, read the defense guide, and build a barricade or reinforce the doors.
+tdaeecfe845	You confirmed readiness. A branchhorn entered home. Reading pauses the world; repairs remain available during raids.
+td695d5beff	The branchhorn is here! Dodge the marked lane and distract it with your hammer.
+t9aa46a7bdf	Defense failed. Capped losses were charged once; mission progress is safe. A two-day rebuilding buffer begins.
+t39037b9ec2	The branchhorn left. Defense succeeded; a two-day rebuilding buffer begins.
+t12c51d056b	The beast took a limited amount of supplies and left. Repair the facilities to recover.
+tc5ada7267b	The branchhorn retreated. Inspect buildings and read the consequences at the terminal.
+te863c7e3d4	The maintenance tow vehicle brought you home. Lost 20% of carried ordinary supplies; mission progress remains.
+tf58b9ade1c	Rescued. Health and basic food restored. Safe scavenging remains available.
+t4dc5fc817a	Hit by a charge. Move sideways to avoid the next warning.
+t3ae4ad6ab0	Hammer hit.
+t100869655f	Building is only allowed within the home plot.
+tdb73d90a9a	Layout editing is disabled during raids. Approach damaged buildings to repair them.
+t1160302d5d	Home construction
+t1934127502	2 m grid · Uses shared storage\nClick to place/select · R Rotate · Esc Exit\nArrow keys pan · Wheel zooms\n\n
+t3e67e9542c	Mode: place
+t5b2004b257	Mode: dismantle; intact materials returned
+tf2fa124fd3	Mode: move; select a facility, then a destination
+t65ad70ad2c	Dismantle
+t3ed305885c	Move
+te08b33f8f3	Exit build mode
+t72a0ba6af1	Insufficient shared materials
+t5c869007c8	Cannot move there. Check occupancy and access.
+t0ea01a7d74	Select a building.
+t19bf540917	Only intact, unoccupied facilities can be moved.
+t2652d94ad4	Facility selected. Click its new grid position.
+tb764843740	Enter home build mode before placing a building.
+tabf5199c52	You are standing there. Move away first.
+t287c59cce6	Navigation start is outside the NavMesh: 
+t82ad320890	Panel requires a presentation model
+t647aa2588f	Approach the warm terminal and read the awakening record
+t9b4358d89b	Collect Stone ×2 and Scrap ×2, deposit them, then repair the emergency stove
+t0c6b1ea8c4	Build at least four floor tiles enclosed by walls and a door to form a roofed room
+t00384b5737	Place a bed inside (Wood ×3, Fiber ×2)
+t4ee147d315	Build storage (Wood ×4); home crafting shares this inventory
+td236bf0451	Follow the eastern sign to the Old Workshop, avoid the branchhorn and retrieve Liang's part
+te9a7e8e489	Return home and install Liang's activation part
+t0106d98cf2	Talk to Liang and claim Repair parts ×4
+t07d7a83ff9	Answer Cen's radio request at the terminal: Lend you a light
+t660be52b90	Prepare a barricade or reinforced doors, read the defense guide and confirm readiness
+t7467ca0e31	Repair damaged buildings and Liang to restore home; Liang can repair buildings
+td52823b1a3	At the terminal, fulfill the visitor bed and ration promise or explicitly withdraw it
+tf21c9de4ca	Read the visit's consequences at the terminal
+tc60fb0da14	The late-winter light is on. Review this run at the terminal
+t30df307bbb	Spring · Day 
+tf8bb0516cc	
+t4adebcef49	Late Winter · Task progression
+t95102da725	Branchhorn warning: 45 seconds to prepare after returning home\n
+t9cc67bb2b4	Build an intact workbench and prepare bridge repair parts
+tb200393319	Liang is repairing the bridge: keep the job active, clear the route and reserve Wood ×8, Parts ×3
+t96b4627c1f	Arrange bridge repairs at the terminal: Wood ×8, Repair parts ×3
+tbca9bd0b54	Cross the repaired western bridge to the greenhouse and collect three permanent crop samples
+t53eb937628	Build a planter, sow and harvest; rations, fiber and fuel need not come only from scavenging
+t88b68a73dc	Chapter and farming sample complete. Keep building; this sample stays in spring. Later seasons are not yet available
+t6b8e522923	The bridge to spring
+t032be92606	\n\nLiang: "There used to be a bridge here. I can repair it."\n\nWood ×8, Repair parts ×3, charged once after 12 seconds of work.\nNeeds a basic home, intact workbench and completed first-defense consequences.\n\n
+t22da7f2dca	Chapter One complete. Spring reduces cold pressure and restores outdoor growth. Food attracts branchhorns; warnings wait for your return.
+td24df3f21d	Finishing the bridge starts spring. No calendar wait is required.
+tc2b376b7bb	Order bridge repair
+t32055f6afc	Visit greenhouse
+t784644d883	Save menu
+t14a18b4503	Bridge work assigned. Materials are charged on completion.
+t0a7ab8edc5	Need first-defense consequences, an intact bench, working Liang and enough supplies. Existing orders never charge twice.
+t6ca1816c90	The bridge is not repaired, or home is under attack.
+tda090bdce1	Planter
+tc7407905df	All three crops share sowing, growth and harvesting. Mature crops never rot.\n\n
+t38f3689168	Empty
+t5407206a90	Protection installed
+t2a2e71069e	Protection: Scrap ×3, Fiber ×2; improves winter growth
+t74dbca247b	\n\nSowing costs one matching resource; harvest yields six. The first ration planting is free.\nGreenhouse samples permanently unlock crops. Full storage leaves crops intact.
+t788b06b4df	Plant ration potatoes
+t29eed7cb64	Plant fiber grass
+t92e4bf2c09	Plant oilseeds
+t5248a55e96	Harvest
+t1f8b1924a0	Add protection
+t35ea30da73	Done.
+td219993b30	Cannot proceed. Check crop unlocks, materials, maturity, damage and storage space.
+t4dfc9de082	Repairing bridge
+t4974369ded	Liang repaired the bridge. Chapter One ends and spring begins. Bring greenhouse crops home.
+t93e1727c0d	Spring forecast: food has attracted a branchhorn. After returning home you have 45 seconds to prepare. Protect storage or place it where you can defend it.
+t4688a0a884	A branchhorn approaches the food store. Dodge its charge and protect the route.
+tcb7d58ac2e	Rest until morning
+t1f6d2ac592	Sleep advances time, crops, food and fuel together.\nUnresolved threats cannot be skipped.\nVisitor beds remain reserved.
+t5d7f004448	Morning has arrived. Check food and fuel.
+tb6f07bbf34	Cannot sleep now. Check threats and bed availability.
+t8126501678	Saved
+tb12163000c	Save failed: 
+t63370a8fa5	Load failed; original files preserved: 
+t64d094368d	Primary save unavailable; recovered a valid backup
+t59ff7364ce	Loaded
+t28107783f8	Load failed; restored the previous session: 
+t265134cd0c	Chapter One: Awakening and Repair\n\nA late-winter light leads to a spring greenhouse.\nThree manual saves and one autosave.\n\n
+t0f3f4d5b3c	Continue
+t9a4bf34e39	New game
+tc7631b6c50	Load game
+t7debf9cb03	Settings
+t2db86dc725	Quit
+tcc36e5bf66	No autosave exists. Choose New game.
+tbb25842c0c	Start a new game?
+tada30fb481	New progress replaces the autosave. Manual slots are preserved.
+t79cc871ca9	Start
+t11d0241540	Back
+t88aadc3fdd	Save progress
+t4b2e713717	Load progress
+t0a67413413	Each slot keeps its most recent valid backup.\n\n
+taea785fbf0	Manual slot 1
+tb06703821a	Manual slot 2
+t3fb81260b5	Manual slot 3
+t00a9a6b2ee	Autosave
+t096c2b286f	Overwrite this save?
+tc56ea76c8e	The previous valid save becomes the backup.
+tfadf24dbc5	Save
+teee7bf4d23	The world and danger are paused.\n\n
+t8112901ecd	Main menu
+t8e9b0e8d95	Settings
+t93659150d0	Simplified Chinese
+ta0b045b174	\nText size: 
+t039dd81caf	%\nVolume: 
+t6dabfbb92d	%\nQuality: 
+t3e57604a40	\n\nReading and planning always pause. Esc closes windows or cancels rebinding.
+t12799b2814	Chinese / English
+t2e4d62d842	Text size
+t36d4db138a	Volume
+t6615720829	Quality
+t9be757c1e1	Key bindings
+ta09a74754b	Up
+t7f156d6ec3	Down
+t4a2815ba04	Left
+t269b34903d	Right
+t3fee5313a6	Sprint
+t8669d29269	Attack
+t1b2c73865e	Interact
+t858f36a4ba	Build
+tff3d08fd8c	Inventory
+t4de50894b8	Journal
+t7b245844ab	Eat
+ta69e51e503	Rotate
+tada84af5f4	Choose an action and press its new key. Esc cancels.\nMouse position and movement cannot be bound as buttons.
+t9a0d6f85ac	Press a new key
+te0bdf89627	: Esc to cancel
+tb6da047695	Wood
+t3373687deb	Stone
+tbe9c929962	Scrap
+t04c7f4ad60	Fiber
+tdcb0a9b6f2	Rations
+t028448f9ba	Fuel
+td56f268733	Repair parts
+tcab07a5ce4	Cells
+tfde815d4fc	Floor
+t6512c72274	Wall
+t57b3e13562	Door
+t1a3d1ffd19	Window
+t71d1438255	Stove
+ta30d8f6da6	Bed
+t8483cd2b08	Workbench
+tc07e756255	Storage
+t03f9bf1203	Barricade
+tbe1e7fc613	Invalid orientation
+t42d1e26671	Build within the home plot
+t5e73625726	Reserved for rescue, terminal or essential access
+t949aa6244d	Floor already exists
+t94b4eef7d1	Place a floor first
+t40afc03f1d	This edge already has a structure
+tae4f210823	Keep essential access clear
+tfb34c4cdc1	An enclosed room needs a door; replace one wall with a door
+t3d77f22d49	Would block an essential route or workstation
+t2ec8a9a3d5	This facility needs a floor
+tcc69a98f2c	Overlaps another facility
+t62681f299f	Keep both sides of the door clear
+t888636a5b9	Would block player access or a workstation interaction point
+t3a6c8d2244	Insufficient shared materials: 
+ta17c57ff86	Target no longer exists
+tb52638e8ae	Bed assigned; release its occupant first
+t590cd72149	Repair damaged facilities first; rebuilding cannot bypass repair costs
+t58a59c8598	Harvest before dismantling this planter
+tb8ae8e74f9	Remove facilities and structures above this floor first
+tea5d36da43	Storage full; cannot return materials
+tb7e673b7ba	Repair this damaged facility first
+tf9bffc448e	Bed assigned
+t04cc480be5	Dismantle and rebuild structural pieces
+tcf840296eb	Exit Play Mode first.
+t82bdd9980d	Unsaved scene changes; generation stopped.
+td5ff89f44c	Missing Addressables configuration.
+t75c7c720c2	Missing model: 
+t4af6f0f2df	Home terminal: objectives / radio / defense
+ta3d11553b7	Shared storage: deposit supplies
+t44a27c4f4c	Emergency bench: fuel / parts
+t21c0c44838	Emergency stove: repair / fuel
+tf2ac13ec3c	Maintenance pod: rest
+t164353836b	Liang: activate / repair job
+t97a1ccbf21	Follow the old road to the workshop
+tcb5ca504cf	Cen's old drain (opens after aid)
+tb6b7352c2d	Gather deadwood ×4
+t76b0338675	Gather stone ×3
+td18ebe4d87	Gather dry grass ×3
+t0687244370	Gather rations ×2
+t6f1a720751	Salvage scrap ×3 by hand
+t1ed8f79cde	Follow the old road home
+t5bac6ec81e	Retrieve Liang's activation part
+tc509c3b92c	Read the evacuation record
+t07fed7017e	Return shortcut (after retrieving the part)
+t5645165ee4	Salvage wood ×4
+t7beb3ada44	Salvage scrap ×4
+tec726ad2c7	Generate the prototype first.
+te4965bd3e2	Invalid panel 
+tdaa3085098	Invalid panel root layout 
+t1fcb26bac1	Configuration checked: panels, independent scenes and dedicated resources generated.
+td218177a62	Return home
+td7071a46f8	Collect permanent crop sample: 
+t138716a1c2	Read biological maintenance record
+tc1d968eeb9	Bridge project: assign Liang
+t03b721c145	Cross the bridge to the greenhouse

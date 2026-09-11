@@ -1,0 +1,37 @@
+from pathlib import Path
+ROOT=Path(__file__).resolve().parents[3]
+def change(path,old,new):
+ p=ROOT/path;s=p.read_text(encoding='utf-8-sig')
+ if old not in s:raise RuntimeError(f'Missing anchor in {path}: {old[:80]}')
+ p.write_text(s.replace(old,new),encoding='utf-8')
+base='Assets/LastLight/Scripts/'
+change(base+'M2SaveStore.cs','public int version=1;','public M3State m3;\n        public int version=1;')
+change(base+'M2SaveStore.cs','if(version!=1)throw','if(version!=1&&version!=3)throw')
+change(base+'M2SaveStore.cs','if(scene!="Home"&&scene!="Workshop"&&scene!="Greenhouse")','if(version==3){if(m3==null)throw new InvalidDataException("Missing M3 state");m3.Validate();}\n            if(version==1&&m3!=null)throw new InvalidDataException("M3 data in legacy save");\n            if(scene!="Home"&&scene!="Workshop"&&scene!="Greenhouse"&&!(version==3&&scene=="Relay"))')
+change(base+'M2SaveStore.cs','public M2SaveStore(string directory){DirectoryPath=directory;}','private readonly bool allowFinale;\n        public M2SaveStore(string directory,bool finale=false){DirectoryPath=directory;allowFinale=finale;}')
+change(base+'M2SaveStore.cs','slot>3','slot>(allowFinale?4:3)')
+change(base+'M2SaveStore.cs','slot==0?"auto.json":"slot"+slot+".json"','slot==4?"before-ending.json":slot==0?"auto.json":"slot"+slot+".json"')
+change(base+'M2Persistence.cs','public string Prefix=>m2?','public string Prefix=>IsM3?"LastLight/M3/":m2?')
+change(base+'M2Persistence.cs','new M2SaveStore(SaveDirectoryOverride??System.IO.Path.Combine(Application.persistentDataPath,"M2Saves"))','new M2SaveStore(SaveDirectoryOverride??System.IO.Path.Combine(Application.persistentDataPath,IsM3?"M3Saves":"M2Saves"),IsM3)')
+change(base+'M2Persistence.cs','M2Settings.Load();','M2Settings.Load();if(IsM3){relay=new M1SceneState("Relay",this);Global.Systems.Get<SceneFlowSystem>().Register(relay);}')
+change(base+'M2Persistence.cs','Economy.Capture(d);','if(IsM3){d.version=3;d.m3=M3.Capture();}\n            Economy.Capture(d);')
+change(base+'M2Persistence.cs','World.Restore(data.world);','World.Restore(data.world);if(IsM3)M3.Restore(data.m3);')
+change(base+'M2Persistence.cs','try{data=Saves.Load(slot,out backup);}','try{data=Saves.Load(slot,out backup);if(IsM3!=(data.version==3))throw new InvalidOperationException("Use explicit M2 import for legacy saves");}')
+change(base+'M2Persistence.cs','public void OpenMainMenu()\n        {','public void OpenMainMenu()\n        {\n            if(IsM3){OpenM3MainMenu();return;}')
+change(base+'M1Director.cs','if(m2)s.Register(new M2WorldSystem());','if(m2)s.Register(new M2WorldSystem());if(IsM3)s.Register(new M3WorldSystem());')
+change(base+'M1Director.cs','destination=="Home"?home:','destination=="Relay"&&IsM3?relay:destination=="Home"?home:')
+change(base+'M1GameSession.cs','else destination=nodes.First(n=>n.Kind==(Story.core?NodeKind.Shortcut:NodeKind.Core));','else if(director.IsM3&&gameObject.scene.name=="Relay")destination=nodes.FirstOrDefault(n=>n.Kind==NodeKind.M3);\n            else destination=nodes.First(n=>n.Kind==(Story.core?NodeKind.Shortcut:NodeKind.Core));')
+change(base+'M1Entities.cs','Sample,GreenhouseRecord }','Sample,GreenhouseRecord,M3 }')
+change(base+'M1GameSession.cs','case NodeKind.Bridge:','case NodeKind.M3:OpenM3Node(node);break;\n                case NodeKind.Bridge:')
+change(base+'M1GameSession.cs','private void OpenTerminal()\n        {','private void OpenTerminal()\n        {\n            if(director.IsM3&&director.World.Data.bridge){OpenM3Hub();return;}')
+change(base+'M1GameSession.cs','director.IsM2?10:9','director.IsM3?17:director.IsM2?10:9')
+change(base+'M1GameSession.cs','if(director.IsM2)TickM2(dt);','if(director.IsM2)TickM2(dt);if(director.IsM3)TickM3(dt);')
+change(base+'M1GameSession.cs','private void OpenFacility(Building b)\n        {','private void OpenFacility(Building b)\n        {\n            if(director.IsM3&&!b.Damaged&&(int)b.type>=10){OpenM3Hub();return;}')
+change(base+'M2Gameplay.cs','var w=director.World.Data;\n            if(Story.stove','if(director.IsM3&&director.World.Data.bridge)return M3Objective();\n            var w=director.World.Data;\n            if(Story.stove')
+change(base+'M2Gameplay.cs','director.World.Advance(dt,C);','director.World.Advance(dt,C,director.IsM3);')
+change(base+'M2WorldSystem.cs','public void Advance(float dt,M1ConstructionSystem c)','public void Advance(float dt,M1ConstructionSystem c,bool fullSeasons=false)')
+change(base+'M2WorldSystem.cs','(Data.spring?1:b.protectedCrop?.8f:.25f)','(Data.spring?(fullSeasons?M3Rules.Growth(M3Rules.Season(Data.springTime),b.protectedCrop):1):b.protectedCrop?.8f:.25f)')
+# Old stage generators must not enumerate newly added building values.
+for file,count in [('M1PrototypeBuilder.cs',9),('M2ChapterBuilder.cs',10)]:
+ change('Assets/LastLight/Editor/'+file,'foreach(Structure kind in Enum.GetValues(typeof(Structure)))','foreach(Structure kind in Enum.GetValues(typeof(Structure)).Cast<Structure>().Take('+str(count)+'))')
+print('M3 integration hooks installed')

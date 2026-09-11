@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &86817481194589363
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 27901645068562930}
+  - component: {fileID: 6405097812879189373}
+  - component: {fileID: 7616364435142985148}
+  m_Layer: 0
+  m_Name: WinterTraveler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &27901645068562930
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 86817481194589363}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0.3007058, z: 0, w: 0.95371693}
+  m_LocalPosition: {x: 0, y: 0.14638719, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 271485789520352992}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!143 &6405097812879189373
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 86817481194589363}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Height: 1.78
+  m_Radius: 0.24
+  m_SlopeLimit: 45
+  m_StepOffset: 0.22
+  m_SkinWidth: 0.025
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 0.9, z: 0}
+--- !u!114 &7616364435142985148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 86817481194589363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc818aac68c78449a7b79be04215866, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SnowVillage.SnowTraveler
+  animator: {fileID: 6135220146191502490}
+  sceneCamera: {fileID: 0}
+  inputActions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  footprints: {fileID: 3192736613680513069, guid: dd7796261ea52ec4686fa8c0263d3054, type: 3}
+  route:
+  - {x: -1, y: 0, z: 4}
+  - {x: 0, y: 0, z: 8}
+  - {x: 5.5, y: 0, z: 10}
+  - {x: 8, y: 0, z: 6}
+  - {x: 7, y: 0, z: -3}
+  - {x: 1, y: 0, z: -5}
+  - {x: -2, y: 0, z: -1}
+  walkSpeed: 1.05
+--- !u!1001 &6343613696756568643
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 27901645068562930}
+    m_Modifications:
+    - target: {fileID: 4793691403926693068, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: leftFoot
+      value: 
+      objectReference: {fileID: 2800854904290684684}
+    - target: {fileID: 4793691403926693068, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: traveler
+      value: 
+      objectReference: {fileID: 7616364435142985148}
+    - target: {fileID: 4793691403926693068, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: rightFoot
+      value: 
+      objectReference: {fileID: 8907674026592711453}
+    - target: {fileID: 5802423316830969369, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: m_Name
+      value: WinterTravelerVisual
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615095087377876131, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615095087377876131, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615095087377876131, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615095087377876131, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615095087377876131, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615095087377876131, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615095087377876131, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615095087377876131, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615095087377876131, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6615095087377876131, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+--- !u!4 &271485789520352992 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6615095087377876131, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+  m_PrefabInstance: {fileID: 6343613696756568643}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2800854904290684684 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9139960603334573391, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+  m_PrefabInstance: {fileID: 6343613696756568643}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &6135220146191502490 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 949596771479903961, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+  m_PrefabInstance: {fileID: 6343613696756568643}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &8907674026592711453 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2564625547849261406, guid: fac1c5b7175b68547a294ec1ab0b051d, type: 3}
+  m_PrefabInstance: {fileID: 6343613696756568643}
+  m_PrefabAsset: {fileID: 0}

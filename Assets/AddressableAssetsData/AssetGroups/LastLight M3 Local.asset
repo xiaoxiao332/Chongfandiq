@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LastLight M3 Local
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: LastLight M3 Local
+  m_GUID: 4719c42f913beac4594ee52928df3005
+  m_SerializeEntries:
+  - m_GUID: 0adcd2c300c3d1541ac66fdc32b80718
+    m_Address: LastLight/M3/Prefabs/Table
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fe57c7b5b77256459e38b119ed3ea67
+    m_Address: LastLight/M3/Prefabs/Window
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11dbf6853217d934bbce4cdf794b2edc
+    m_Address: LastLight/M3/Prefabs/Raider
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40054033c7d19a046921bb30d2d69f74
+    m_Address: LastLight/M3/Prefabs/Stove
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4520974144b7f284a96b6cd3c20ca7da
+    m_Address: LastLight/M3/Prefabs/Roof
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45e642b5fd27ebf4e83de78aef44c4fc
+    m_Address: LastLight/M3/Prefabs/Lamp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4820535a5d5a43c4c9d524ca697649b6
+    m_Address: LastLight/M3/Prefabs/Chair
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52d92bf959a48bf46bde39a537260afd
+    m_Address: LastLight/M3/Prefabs/Footprint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d91afb24c17d274e81c6c8fbdc2094a
+    m_Address: LastLight/M3/Prefabs/Decoy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6543c268c1443904e9d82b801e1cd629
+    m_Address: LastLight/M3/Prefabs/Wall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b410ceecc642dd4ea38a0ac4f827854
+    m_Address: LastLight/M3/UI/M1Event
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b974cbb51752b44ba1033aa93407dee
+    m_Address: LastLight/M3/Prefabs/Bed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83597a6b637e045459d0f2ce3ae7c573
+    m_Address: LastLight/M3/UI/M1Inventory
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8760e776fefac6847b92dfa354f5f4db
+    m_Address: LastLight/M3/UI/M1Loading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95deeb9a2a782c54285ff336db98f5eb
+    m_Address: LastLight/M3/Prefabs/Barricade
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9da504dd09840f044b75c27861c20699
+    m_Address: LastLight/M3/UI/M1Window
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9da5da6eaff0cdc4f9ac3b6d975d9156
+    m_Address: LastLight/M3/Prefabs/Door
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9df63e6c10bd2e44aaaed9ffa020196
+    m_Address: LastLight/M3/UI/M1Pause
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afc1c372130cef046a51cdf9e007b053
+    m_Address: LastLight/M3/Prefabs/Shelf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1355cb0d1753c04483f2a57eaec5066
+    m_Address: LastLight/M3/UI/M1HUD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1987cff6f1764c4da6f8921ad93805e
+    m_Address: LastLight/M3/Prefabs/Storage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba0f78d3cbc55f942a190f3de02a0d24
+    m_Address: LastLight/M3/Prefabs/Workbench
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf4390d2fad405b478256ec27db92d4f
+    m_Address: LastLight/M3/UI/M1Journal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c360d345cc78a6346a05c75bc73419c6
+    m_Address: LastLight/M3/UI/M1End
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca6278c48bf3a8c479c6604db8aa9b2e
+    m_Address: LastLight/M3/Prefabs/WatchLight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cecf33dc896f6124b854a4be48e0f596
+    m_Address: LastLight/M3/Scenes/Home
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd870b3b63c30bc48a34e668aa49e5e4
+    m_Address: LastLight/M3/Prefabs/Floor
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec49a794352484d4aad07d4ac06f6359
+    m_Address: LastLight/M3/Prefabs/Charger
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edb61338c177d6b4483fc808412a7f8d
+    m_Address: LastLight/M3/UI/M1Build
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6e4de33de169114fb8359a5c3cca121
+    m_Address: LastLight/M3/Scenes/Workshop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9204f9d41a451e4eb8c0e58e58f7401
+    m_Address: LastLight/M3/Prefabs/Planter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9c932d4bb82aa748b04974a72663dec
+    m_Address: LastLight/M3/Scenes/Greenhouse
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9d3a8b9792265d458d726cbbe820e8f
+    m_Address: LastLight/M3/Scenes/Relay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1caf797d6230b9f4eafedd5c7d7ac735, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 57b24101ee6e5674796cc47b6bdc033f, type: 2}
+    - {fileID: 11400000, guid: 02b03adc70746b64288cf1f0451dd4cf, type: 2}

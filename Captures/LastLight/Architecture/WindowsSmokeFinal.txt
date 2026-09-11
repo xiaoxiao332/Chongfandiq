@@ -1,0 +1,2 @@
+PASS
+10 menu/A/B/A/menu rounds; UI, pool, leases, rollback, shutdown validated.

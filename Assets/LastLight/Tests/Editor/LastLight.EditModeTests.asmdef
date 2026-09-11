@@ -1,0 +1,1 @@
+{"name":"LastLight.EditModeTests","references":["LastLight.Framework","LastLight.Runtime","LastLight.Core","LastLight.Editor"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"]}

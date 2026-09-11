@@ -1,0 +1,1 @@
+{"name":"LastLight.Framework","rootNamespace":"LastLight","references":["Unity.Addressables","Unity.ResourceManager","Unity.InputSystem","Unity.ugui"]}

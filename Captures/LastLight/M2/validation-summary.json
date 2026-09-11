@@ -1,0 +1,44 @@
+{
+  "milestone": "M2",
+  "scope": "development-side logic and build validation",
+  "editMode": {
+    "jobId": "9b23f044060744d09f9bfe5e2ce283d8",
+    "passed": 42,
+    "failed": 0,
+    "skipped": 0
+  },
+  "playMode": {
+    "jobId": "f36ff3491c7c4f409865c6ce0739f12b",
+    "passed": 10,
+    "failed": 0,
+    "skipped": 0
+  },
+  "layout": {
+    "passed": 64,
+    "failed": 0,
+    "languages": ["zh-Hans", "en"],
+    "maximumTextSize": true,
+    "evidence": "Captures/LastLight/M2/Layout-20260911-023706/Validation.txt"
+  },
+  "windowsBuild": {
+    "result": "Succeeded",
+    "errors": 0,
+    "warnings": 0,
+    "folderBytes": 243876522,
+    "fileCount": 247,
+    "executable": "Builds/LastLight/M2/LastLight.exe",
+    "executableSha256": "48efab523aa684c653bd1254a6962d3410127b5c02dc1310f6f16f4810666556"
+  },
+  "standalone": {
+    "coldStartExitCode": 0,
+    "reloadExitCode": 0,
+    "savedScene": "Greenhouse",
+    "crossProcessStateRestored": true,
+    "evidence": "Captures/LastLight/M2/StandaloneProbe-20260911-0250/"
+  },
+  "protectedBaseline": {
+    "checked": 139,
+    "changed": 0
+  },
+  "userFeelValidation": "pending"
+}

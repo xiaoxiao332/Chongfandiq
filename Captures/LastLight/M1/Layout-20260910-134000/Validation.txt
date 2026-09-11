@@ -1,0 +1,16 @@
+PASS HUD 1920x1080 : content bounds, button text, actual screenshot
+PASS Inventory 1920x1080 : content bounds, button text, actual screenshot
+PASS Build 1920x1080 : content bounds, button text, actual screenshot
+PASS Journal 1920x1080 : content bounds, button text, actual screenshot
+PASS HUD 1920x1200 : content bounds, button text, actual screenshot
+PASS Inventory 1920x1200 : content bounds, button text, actual screenshot
+PASS Build 1920x1200 : content bounds, button text, actual screenshot
+PASS Journal 1920x1200 : content bounds, button text, actual screenshot
+PASS HUD 2560x1080 : content bounds, button text, actual screenshot
+PASS Inventory 2560x1080 : content bounds, button text, actual screenshot
+PASS Build 2560x1080 : content bounds, button text, actual screenshot
+PASS Journal 2560x1080 : content bounds, button text, actual screenshot
+PASS HUD 1280x720 : content bounds, button text, actual screenshot
+PASS Inventory 1280x720 : content bounds, button text, actual screenshot
+PASS Build 1280x720 : content bounds, button text, actual screenshot
+PASS Journal 1280x720 : content bounds, button text, actual screenshot

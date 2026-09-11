@@ -1,0 +1,1 @@
+{"name":"LastLight.PlayModeTests","references":["LastLight.Framework","LastLight.Runtime","LastLight.Core","Unity.InputSystem","Unity.ugui"],"optionalUnityReferences":["TestAssemblies"]}

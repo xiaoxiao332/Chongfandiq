@@ -1,0 +1,1 @@
+{"name":"LastLight.Editor","rootNamespace":"LastLight.Editor","references":["LastLight.Framework","LastLight.Runtime","LastLight.Core","Unity.Addressables","Unity.Addressables.Editor","Unity.ResourceManager","Unity.InputSystem","Unity.ugui","Unity.AI.Navigation"],"includePlatforms":["Editor"]}

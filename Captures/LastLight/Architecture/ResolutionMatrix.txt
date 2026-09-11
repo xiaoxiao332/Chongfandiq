@@ -1,0 +1,4 @@
+PASS 1920x1080: five panels cover their layer; Content remains inside viewport.
+PASS 1920x1200: five panels cover their layer; Content remains inside viewport.
+PASS 2560x1080: five panels cover their layer; Content remains inside viewport.
+PASS 1280x720: five panels cover their layer; Content remains inside viewport.
